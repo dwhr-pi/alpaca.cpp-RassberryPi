@@ -2,6 +2,8 @@
 
 Run a fast ChatGPT-like model locally on your device. The screencast below is not sped up and running on an M2 Macbook Air with 4GB of weights. 
 
+[YouTube Video](https://youtube.com/shorts/uTZZBW0OOFE?si=PEHj3Mgi3mf5cP92)
+
 
 [![asciicast](screencast.gif)](https://asciinema.org/a/dfJ8QXZ4u978Ona59LPEldtKK)
 
